@@ -1,2 +1,2 @@
 # Digital-Voltmeter
-A simple inplementation of digital voltmeter in Proteus8
+Simple inplementations of digital voltmeter and clock in Proteus8
